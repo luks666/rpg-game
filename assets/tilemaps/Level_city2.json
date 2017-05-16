@@ -46,185 +46,187 @@
         }, 
         {
          "draworder":"topdown",
-         "height":0,
-         "name":"Doors",
+         "name":"Objects",
          "objects":[
                 {
                  "gid":76,
-                 "height":70,
+                 "height":140,
                  "id":14,
                  "name":"",
+                 "properties":
+                    {
+                     "sprite":"brownDoor1",
+                     "type":"door"
+                    },
+                 "propertytypes":
+                    {
+                     "sprite":"string",
+                     "type":"string"
+                    },
                  "rotation":0,
-                 "type":"",
+                 "type":"door",
                  "visible":true,
                  "width":70,
                  "x":770,
                  "y":1960
                 }, 
                 {
-                 "gid":62,
-                 "height":70,
-                 "id":15,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":70,
-                 "x":770,
-                 "y":1890
-                }, 
-                {
                  "gid":77,
-                 "height":70,
+                 "height":140,
                  "id":19,
                  "name":"",
+                 "properties":
+                    {
+                     "sprite":"brownDoor1",
+                     "type":"door"
+                    },
+                 "propertytypes":
+                    {
+                     "sprite":"string",
+                     "type":"string"
+                    },
                  "rotation":0,
-                 "type":"",
+                 "type":"door",
                  "visible":true,
                  "width":70,
                  "x":3080,
                  "y":1960
-                }, 
-                {
-                 "gid":63,
-                 "height":70,
-                 "id":20,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":70,
-                 "x":3080,
-                 "y":1890
                 }, 
                 {
                  "gid":77,
-                 "height":70,
+                 "height":140,
                  "id":21,
                  "name":"",
+                 "properties":
+                    {
+                     "sprite":"brownDoor1",
+                     "type":"door"
+                    },
+                 "propertytypes":
+                    {
+                     "sprite":"string",
+                     "type":"string"
+                    },
                  "rotation":0,
-                 "type":"",
+                 "type":"door",
                  "visible":true,
                  "width":70,
                  "x":3850,
                  "y":1960
-                }, 
-                {
-                 "gid":63,
-                 "height":70,
-                 "id":22,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":70,
-                 "x":3850,
-                 "y":1890
                 }, 
                 {
                  "gid":373,
-                 "height":70,
+                 "height":140,
                  "id":26,
                  "name":"",
+                 "properties":
+                    {
+                     "sprite":"bigDoor",
+                     "type":"door"
+                    },
+                 "propertytypes":
+                    {
+                     "sprite":"string",
+                     "type":"string"
+                    },
                  "rotation":0,
-                 "type":"",
+                 "type":"door",
                  "visible":true,
-                 "width":70,
+                 "width":140,
                  "x":6230,
                  "y":1330
-                }, 
-                {
-                 "gid":345,
-                 "height":70,
-                 "id":27,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":70,
-                 "x":6300,
-                 "y":1330
-                }, 
-                {
-                 "gid":290,
-                 "height":70,
-                 "id":28,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":70,
-                 "x":6230,
-                 "y":1260
-                }, 
-                {
-                 "gid":262,
-                 "height":70,
-                 "id":29,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":70,
-                 "x":6300,
-                 "y":1260
                 }, 
                 {
                  "gid":74,
-                 "height":70,
+                 "height":140,
                  "id":33,
                  "name":"",
+                 "properties":
+                    {
+                     "sprite":"brownDoor2",
+                     "type":"door"
+                    },
+                 "propertytypes":
+                    {
+                     "sprite":"string",
+                     "type":"string"
+                    },
                  "rotation":0,
-                 "type":"",
+                 "type":"door",
                  "visible":true,
                  "width":70,
                  "x":1540,
                  "y":1960
-                }, 
-                {
-                 "gid":60,
-                 "height":70,
-                 "id":34,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":70,
-                 "x":1540,
-                 "y":1890
                 }, 
                 {
                  "gid":75,
-                 "height":70,
+                 "height":140,
                  "id":36,
                  "name":"",
+                 "properties":
+                    {
+                     "sprite":"blackDoor",
+                     "type":"door"
+                    },
+                 "propertytypes":
+                    {
+                     "sprite":"string",
+                     "type":"string"
+                    },
                  "rotation":0,
-                 "type":"",
+                 "type":"door",
                  "visible":true,
                  "width":70,
                  "x":2520,
                  "y":1960
                 }, 
                 {
-                 "gid":61,
+                 "gid":541,
                  "height":70,
-                 "id":37,
+                 "id":39,
                  "name":"",
+                 "properties":
+                    {
+                     "type":"box"
+                    },
+                 "propertytypes":
+                    {
+                     "type":"string"
+                    },
                  "rotation":0,
-                 "type":"",
+                 "type":"box",
                  "visible":true,
                  "width":70,
-                 "x":2520,
-                 "y":1890
+                 "x":1889.85245063837,
+                 "y":1959.81864101329
+                }, 
+                {
+                 "gid":179,
+                 "height":70,
+                 "id":41,
+                 "name":"",
+                 "properties":
+                    {
+                     "type":"playerStart"
+                    },
+                 "propertytypes":
+                    {
+                     "type":"string"
+                    },
+                 "rotation":0,
+                 "type":"playerStart",
+                 "visible":true,
+                 "width":70,
+                 "x":69.384530980657,
+                 "y":1889.89019572869
                 }],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
-         "width":0,
          "x":0,
          "y":0
         }],
- "nextobjectid":39,
+ "nextobjectid":42,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tileheight":70,
@@ -232,7 +234,7 @@
         {
          "columns":7,
          "firstgid":1,
-         "image":"C:\/Users\/LUKA\/Desktop\/Assets\/Tilemaps\/Tiles\/Ground.png",
+         "image":"..\/images\/Ground.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -245,7 +247,7 @@
         {
          "columns":14,
          "firstgid":50,
-         "image":"C:\/Users\/LUKA\/Desktop\/Assets\/Tilemaps\/Tiles\/Buildings.png",
+         "image":"..\/images\/Buildings.png",
          "imageheight":490,
          "imagewidth":980,
          "margin":0,
@@ -258,7 +260,7 @@
         {
          "columns":14,
          "firstgid":148,
-         "image":"C:\/Users\/LUKA\/Desktop\/Assets\/Tilemaps\/Tiles\/Buildings_1.png",
+         "image":"..\/images\/Buildings_1.png",
          "imageheight":2048,
          "imagewidth":1024,
          "margin":0,
@@ -269,6 +271,7 @@
          "tilewidth":70
         }],
  "tilewidth":70,
+ "type":"map",
  "version":1,
  "width":150
 }

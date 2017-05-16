@@ -44,7 +44,7 @@ Hero.prototype.jumpSpeed = 400;
 
 Hero.prototype.chargeJump = function() {
 	const JUMP_LIMIT = 800,
-		JUMP_INCREASE = 10;
+		JUMP_INCREASE = 100;
 	if (this.jumpSpeed < JUMP_LIMIT) {
 		this.jumpSpeed += JUMP_INCREASE;
 	}
